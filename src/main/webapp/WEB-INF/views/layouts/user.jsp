@@ -40,4 +40,8 @@
 		 </div>
 	</footer>
 </body>
+<script src="${js}/jaehyun.js"></script>
+<script>
+   member.init('${pageContext.request.contextPath}');
+</script>
 </html>
