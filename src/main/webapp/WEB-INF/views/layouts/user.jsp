@@ -40,8 +40,12 @@
 		 </div>
 	</footer>
 </body>
+<<<<<<< HEAD
 <script src="${js}/jaehyun.js"></script>
 <script>
    member.init('${pageContext.request.contextPath}');
 </script>
+=======
+<script src="${js}/donghyuk.js"></script>
+>>>>>>> 0bad0f485e7866d9fa1abd15c2deff22908c2613
 </html>
