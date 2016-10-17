@@ -18,7 +18,6 @@
               </h4>
               <div>
                 <table style="width: 0" class="rows">
-
                 <tr>
                   <th>카드종류</th>
                   <td>
